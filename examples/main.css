@@ -8,6 +8,11 @@ body {
 	overscroll-behavior: none;
 }
 
+h1 {
+	font-size: 30px;
+	color: blue;
+}
+
 a {
 	color: #ff0;
 	text-decoration: none;
