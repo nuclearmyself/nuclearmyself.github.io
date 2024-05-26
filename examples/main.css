@@ -8,12 +8,6 @@ body {
 	overscroll-behavior: none;
 }
 
-h1 {
-	color: rgb(0, 60, 255);
-	font-size: 30px;
-	font-family: 'PT Sans', sans-serif;
-}
-
 a {
 	color: #ff0;
 	text-decoration: none;
